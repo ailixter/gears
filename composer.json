@@ -1,0 +1,18 @@
+{
+    "name": "ailixter/gears",
+    "description": "Common Gears",
+    "authors": [
+        {
+            "name": "Alexey Ilyin",
+            "email": "ailixter@gmail.com"
+        }
+    ],
+    
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Ailixter\\Gears\\": "src/"
+        }
+    }
+}
