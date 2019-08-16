@@ -8,8 +8,10 @@
         }
     ],
     "license": "MIT",
-    
-    "require": {},
+
+    "require": {
+        "php": "^7"
+    },
 
     "autoload": {
         "psr-4": {
